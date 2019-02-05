@@ -9,6 +9,9 @@ public class CordovaTest {
 		String test = "cordova estrada yuliño haciendo el test";
 	
 		String coment = "estrada";
+		
+		
+		String especialidad = "ANALISTA PROGRAMADOR";
 	}
 
 }
