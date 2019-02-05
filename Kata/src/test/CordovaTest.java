@@ -6,7 +6,7 @@ public class CordovaTest {
 		
 		String cadena = ";ESTRADAcordova@gmail.com;";
 		
-		
+		String test = "cordova estrada yuliño haciendo el test";
 	}
 
 }
